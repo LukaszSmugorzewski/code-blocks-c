@@ -1,0 +1,104 @@
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    printf("Hello world!\n");
+//    return 0;
+//}
+
+
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    printf("Bardzo\n");
+//    printf("Dlugi\n");
+//    printf("znak\n");
+//    printf("\n");
+//    printf("Bardzo\ndlugi\nznak");
+//    return 0;
+//}
+
+
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    printf("napis zawiera rozne dziwne znaki! // \\ \\ $ & %% \n");
+//    return 0;
+//}
+
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    int a = 15;
+//    printf("moja liczba to: %d", a);
+//}
+
+
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    int a = 2;
+//    int b = 3;
+//    int c = 4;
+//
+//    printf("moje trzy liczby to: \n %d \n %d \n %d",a,b,c);
+//}
+
+
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    int a;
+//    printf("podaj numer a: ");
+//    scanf("%d", &a);
+//    printf("liczba o 1 wieksza od %d to %d",a,a+1);
+//}
+
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    int a;
+//    int b;
+//    int c;
+//    printf("podaj numer a: ");
+//    scanf("%d", &a);
+//    printf("podaj numer b: ");
+//    scanf("%d", &b);
+//    printf("podaj numer c: ");
+//    scanf("%d", &c);
+//
+//    printf("średnia arytmetyczna liczb %d, %d, %d to %d",a,b,c,(a+b+c)/3);
+//}
+
+//#include <stdio.h>
+//#include <stdlib.h>
+//#include <math.h>
+//
+//int main()
+//{
+//    float a;
+//    printf("podaj numer a: ");
+//    scanf("%f", &a);
+//    if(a>0){
+//        printf("twoja liczba %f podniesiona do pierwiastka drugiego stopnia rowna sie: %f",a,pow(a, 0.5));
+//    }
+//    else{
+//        printf("nie można spierwiastkowac zera!");
+//    }
+//    return 0;
+//}
+
+
