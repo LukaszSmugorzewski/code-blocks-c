@@ -6,8 +6,8 @@
 //    printf("Hello world!\n");
 //    return 0;
 //}
-
-
+//
+//
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -20,8 +20,8 @@
 //    printf("Bardzo\ndlugi\nznak");
 //    return 0;
 //}
-
-
+//
+//
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -30,7 +30,7 @@
 //    printf("napis zawiera rozne dziwne znaki! // \\ \\ $ & %% \n");
 //    return 0;
 //}
-
+//
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -39,8 +39,8 @@
 //    int a = 15;
 //    printf("moja liczba to: %d", a);
 //}
-
-
+//
+//
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -52,8 +52,8 @@
 //
 //    printf("moje trzy liczby to: \n %d \n %d \n %d",a,b,c);
 //}
-
-
+//
+//
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -64,7 +64,7 @@
 //    scanf("%d", &a);
 //    printf("liczba o 1 wieksza od %d to %d",a,a+1);
 //}
-
+//
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -82,7 +82,7 @@
 //
 //    printf("średnia arytmetyczna liczb %d, %d, %d to %d",a,b,c,(a+b+c)/3);
 //}
-
+//
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <math.h>
@@ -100,5 +100,44 @@
 //    }
 //    return 0;
 //}
+//#include <stdio.h>
+//#include <stdlib.h>
+//#include <math.h>
+//
+//int main()
+//{
+//    float a;
+//    printf("podaj liczbe wymierną: ");
+//    scanf("%f", &a);
+//    if(a>0){
+//        printf("liczba bezwzgledna z %f wynosi %f",a,a);
+//    }
+//    else{
+//        printf("liczba bezwzgledna z %f wynosi %f",a,-a);
+//    }
+//
+//}
+//#include <stdio.h>
+//#include <stdlib.h>
+//#include <math.h>
+//
+//int main()
+//{
+//    float a;
+//    printf("podaj liczbe wymierna: ");
+//    scanf("%f", &a);
+//    printf("twoja liczba z dokladnoscia do 2 miejsc po przecinku wynosi: %.2f", a);
+//}
+//
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
 
-
+int main()
+{
+    float a;
+    printf("podaj swoja liczbe wymierna: ")
+    scanf("%f", &a);
+    print("twoja liczba zapisana w notacji wykładniczej wynosi: ")
+    
+}
